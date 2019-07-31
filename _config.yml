@@ -27,4 +27,4 @@ paginate: 5
 plugins_dir:
   - jekyll-admin
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
