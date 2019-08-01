@@ -8,12 +8,12 @@
 # Site settings
 title: "Help Center"
 email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
+description: "All the necessary information can be found here in the question / answer format."
 baseurl: ""
 url: ""
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
-color_theme:  "#0081ff"
+twitter_username: "bookletix"
+github_username:  "bookletix"
+color_theme:  "#005ab3"
 color_text:  "#fff"
 language:  "en"
 
